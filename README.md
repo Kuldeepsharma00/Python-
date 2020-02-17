@@ -559,3 +559,7 @@ for ch in s:
 print(d)
 for k, v in d.items():
     print('{} is {}'.format(k, v))
+print (d)
+s=  'My name is kuldeep' 
+print(s)
+
